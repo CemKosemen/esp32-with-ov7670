@@ -1,0 +1,7 @@
+.vs/
+Debug/
+Release/
+img-reader/bin/
+img-reader/obj/
+img-reader.user
+img-reader.vcxproj.user
